@@ -39,5 +39,6 @@ docker compose down
 | Folder | Topic |
 |--------|--------|
 | `exercise-01/` | Composite B-tree indexes & range queries |
+| `exercise-02/` | Left-prefix rule (skipping the leading column) |
 
 Open the exercise folder, read `PROMPT.md`, load the SQL, then answer **before** opening anything under `solution/` (added after you attempt it).
