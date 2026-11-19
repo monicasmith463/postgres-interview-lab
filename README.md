@@ -42,5 +42,7 @@ docker compose down
 | `exercise-02/` | Left-prefix rule (skipping the leading column) |
 | `exercise-03/` | Two equalities + one range (`status`) |
 | `quiz-composite/` | No-hint recall quiz (answer key) |
+| `exercise-04/` | FK vs constraints (enforce + no auto-index) |
 
 Open the exercise folder, read `PROMPT.md`, load the SQL, then answer **before** opening anything under `solution/` (added after you attempt it).
+
